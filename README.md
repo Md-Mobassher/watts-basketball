@@ -1,7 +1,7 @@
 ## Project Name: watts-basketball
 
 
-## Live Side Link: https://watts-basketball.vercel.app/
+## Live Side Link: https://watts-basketball.vercel.app
 
 
 ## Project Details:
