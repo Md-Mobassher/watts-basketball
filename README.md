@@ -5,7 +5,7 @@
 
 
 ## Project Details:
-This is an Next JS, React JS, TypeScript, Tailwind CSS project. .
+- This is an Next JS, React JS, TypeScript, Tailwind CSS project. 
 
 
 ## Technology: Next JS, React JS, TypeScript, Tailwind CSS
