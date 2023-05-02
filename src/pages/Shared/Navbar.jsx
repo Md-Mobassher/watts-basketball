@@ -1,19 +1,12 @@
 import React from 'react'
-import logo from '../Assets/logof.png'
-import Image from 'next/image'
-import VideoBackground from './VideoBackground'
 
+const Navbar = () => {
 
-
-const Header = () => {
-
-
- 
   return (
     <nav >
-        
+        <h1>Navbar</h1>
     </nav>
   )
 }
 
-export default Header
+export default Navbar
